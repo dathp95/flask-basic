@@ -23,7 +23,7 @@ body {
 }
 .nav{
     position: relative;    
-    background-color: orange;
+    background-color: rgb(124, 140, 233);
     height: 50px; 
     display: flex;   
 }
